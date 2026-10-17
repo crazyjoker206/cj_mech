@@ -1,0 +1,37 @@
+{
+  "profile": {
+    "name": "C.J",
+    "bio": {
+      "en": "Mechatronics engineer and maker. Here are the projects I built.",
+      "ar": "مهندس ميكاترونكس وصانع مشاريع. دي المشاريع اللي عملتها."
+    },
+    "contacts": [
+      { "label": "Email", "url": "mailto:you@example.com" },
+      { "label": "GitHub", "url": "https://github.com/" }
+    ]
+  },
+  "projects": [
+    {
+      "title": { "en": "Sample Project 1", "ar": "مشروع تجريبي 1" },
+      "desc": {
+        "en": "Replace this with a description of your project.",
+        "ar": "غيّر النص ده بوصف مشروعك."
+      },
+      "components": ["Arduino", "Servo Motor", "Ultrasonic Sensor"],
+      "images": [],
+      "video": "",
+      "link": ""
+    },
+    {
+      "title": { "en": "Sample Project 2", "ar": "مشروع تجريبي 2" },
+      "desc": {
+        "en": "Add as many projects as you like.",
+        "ar": "ضيف أي عدد من المشاريع."
+      },
+      "components": ["ESP32", "DC Motor", "L298N"],
+      "images": [],
+      "video": "",
+      "link": ""
+    }
+  ]
+}
